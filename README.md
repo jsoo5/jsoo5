@@ -8,7 +8,7 @@ I have spent the last three years immersing myself in engineering, overcoming ch
 ### 🎓 Education
 
 <a href="https://github.com/jsoo5">
-  <img width=45% align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsoo5&layout=donut&theme=transparent&exclude_repo=ms_ai_school-practice_code" />
+  <img width=45% align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsoo5&layout=donut&theme=transparent&exclude_repo=ms_ai_school-practice_code,find-homes" />
 </a>
 
 - M.S. in Imaging Science

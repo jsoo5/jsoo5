@@ -3,7 +3,7 @@
 ### 👩‍💻 About Me
 Hello. I am Jisoo Oh, a versatile talent with a well-rounded skill set in **development, planning, and design**. 😊
 
-I have spent the last three years immersing myself in engineering, overcoming challenges, and delivering solid results—fueled by relentless **determination and perseverance**.<br/><br/>
+I have spent the last three years immersing myself in engineering, overcoming challenges, and delivering solid results—**fueled by relentless determination and perseverance**.<br/><br/>
 
 ### 🎓 Education
 
